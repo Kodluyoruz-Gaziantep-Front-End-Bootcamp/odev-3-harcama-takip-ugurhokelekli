@@ -1,15 +1,15 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week
+Week 3
 
 # Homework 
-```Ödev```
+HW 3
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+Expenditure Tracking App
 
 
 ## Author
 
-```Ödevi yapan```
+İsmail Uğur Hökelekli
