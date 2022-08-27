@@ -7,7 +7,7 @@ HW 3
 
 ## Homework Description
 
-Expenditure Tracking App
+Expense Tracking App
 
 
 ## Author
